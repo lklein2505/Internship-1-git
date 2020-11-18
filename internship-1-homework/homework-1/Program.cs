@@ -7,6 +7,8 @@ namespace homework_1
         static void Main(string[] args)
         {
             Console.WriteLine("Line changed for first commit!");
+            Console.WriteLine("Second commit!");
+	 	
         }
     }
 }
